@@ -1,0 +1,5 @@
+
+{
+  "name": "Math Problem Generator for Kids",
+  "description": "An application for 3rd-grade students to practice math with addition, subtraction, multiplication, and division. It allows generating custom problem sheets based on a number range, selected operations, and problem count, which can then be printed."
+}
